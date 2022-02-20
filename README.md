@@ -1,2 +1,3 @@
 # systemy_wspomagania_decyzji
- 
+
+Repozytorium na zaliczenie przedmiotu systemy_wspomagania_decyzji
