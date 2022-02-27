@@ -13,8 +13,6 @@ legs.
 tabletop.
 closet.
 
-
-
 %% facts
 have(room, wall).
 have(room, furniture).
@@ -30,4 +28,3 @@ have(table, legs).
 have(table, tabletop).
 
 can(window, open).
-can()
